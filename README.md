@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on writing tools in Python that can be used to automate simple yet frequently run sysadmin tasks<br>🌱 I’m currently learning more about AI agents for infrastructure<br>👯 I’m looking to collaborate on SRE and DevOps tools that make development faster, more reliable and more secure<br>💬 Ask me about career transition into tech and career growth in DevOps<br>📫 How to reach me: https://www.linkedin.com/in/victor-chukwuemeke/
+🔭 I’m currently working on writing tools in Python that can be used to automate simple yet frequently run sysadmin tasks<br>🌱 I’m currently learning more about AI agents for infrastructure<br>👯 I’m looking to collaborate on SRE and DevOps tools that make development faster, more reliable and more secure<br>💬 Ask me about career transition into tech and career growth in DevOps<br>📫 How to reach me: victorefedi@gmail.com
 
 
 # 💻 Tech Stack:
